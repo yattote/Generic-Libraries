@@ -4,6 +4,7 @@ General purpose libraries for other projects which can include them easily as ne
 ## External libraries
 - [LowPower](https://github.com/rocketscream/Low-Power): Sources version 1.60 and all credits goes for them.
 - [MD_MAX72XX](https://github.com/MajicDesigns/MD_MAX72XX): Sources version 2.11.0 and all credits goes for them.
+- [TrueRandom](https://github.com/sirleech/TrueRandom): Sources version 1.0 and all credits goes for them.
 
 ## Own libraries
 - Bluetooth_Lib: controls bluetooth modules HC-05 and HC-06 via SoftwareSerial class.

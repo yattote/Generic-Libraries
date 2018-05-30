@@ -1,4 +1,5 @@
 #include <MD_MAX72XX.h>
+#include <TrueRandom.h>
 
 #include <CCommon.h>
 #include <CBluetooth.h>
@@ -19,6 +20,8 @@ void setup()
     CJoystick joystick = CJoystick(2, 3, 5);
     CMelodies melodies = CMelodies(2);
     CMotors motors = CMotors();
+
+    int i = TrueRandom.rand();
 }
 
 void loop()
